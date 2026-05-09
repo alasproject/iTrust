@@ -1,0 +1,8 @@
+{
+  "name": "iTrust – Plataforma de Confiança Autenticada",
+  "description": "Transforma negociações por voz em contratos executáveis com IA e escrow simulado.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
